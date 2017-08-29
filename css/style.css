@@ -49,6 +49,7 @@ p {
 }
 
 table {
+  width: 100%;
   display: table;
   border-collapse: separate;
 }
@@ -59,6 +60,14 @@ th, td {
   padding: 15px;
   font-family: 'Josefin Slab', serif;
   font-size: 24px;
+}
+
+@media (max-width: 640px) {
+  th, td {
+  text-align: center;
+  padding: 12px;
+  font-family: 'Josefin Slab', serif;
+  font-size: 15px;
 }
 
 img {
