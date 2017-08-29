@@ -62,16 +62,16 @@ th, td {
   font-size: 24px;
 }
 
+img {
+  width: 40px;
+}
+
 @media (max-width: 640px) {
   th, td {
   text-align: center;
   padding: 12px;
   font-family: 'Josefin Slab', serif;
   font-size: 15px;
-}
-
-img {
-  width: 40px;
 }
 
 footer {
