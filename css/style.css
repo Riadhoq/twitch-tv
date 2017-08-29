@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+}
+/*
+$background-color: #247A51;
+$font-color: #EA4841;
+font-family: 'Lobster', cursive;
+font-family: 'Josefin Slab', serif;
+
+*/
+
+body {
+  background-image: url(https://www.walldevil.com/wallpapers/a14/wow-wallpaper-fantasy-photo-world-picfile.jpg);
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  border-style: hidden;
+  float: right;
+}
+
+.well {
+  text-align: center;
+  background-image: url(https://us.v-cdn.net/6025034/uploads/editor/ky/8vxopl9jblq5.jpg);
+  background-size: cover;
+  border-style: hidden;
+  background-position: center;
+}
+
+h1, h3 {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+#anchor {
+  padding-bottom: 40px;
+}
+
+a {
+  color: #ddd;
+  text-decoration: none;
+}
+a:hover {
+  color: #ddd;
+  text-decoration: none;
+}
+
+p {
+  padding-bottom: 30px;
+}
+
+table {
+  display: table;
+  border-collapse: separate;
+}
+
+th, td {
+  color: #ddd;
+  text-align: center;
+  padding: 15px;
+  font-family: 'Josefin Slab', serif;
+  font-size: 24px;
+}
+
+img {
+  width: 40px;
+}
+
+footer {
+  color:#ddd;
+  padding: 1rem;
+  background-color: #101010;
+  text-align: center;
+}
